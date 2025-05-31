@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hola,  👋 Soy Orlando
 
-<!--
-**Orlando1437/Orlando1437** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy desarrollador **Junior** con experiencia en **PHP**, **HTML** y **JavaScript**.  
+Tengo conocimientos básicos en **React**, **FastAPI** y **n8n**, y estoy aprendiendo para mejorar cada día.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 Actualmente trabajo en
+- Desarrollo web con PHP, HTML y JavaScript.
+- Explorando React y FastAPI para proyectos más modernos.
+
+### 🌱 Actualmente estoy aprendiendo
+- Profundizar en React y FastAPI.
+- Buenas prácticas en desarrollo backend y frontend.
+- Automatización avanzada con n8n.
+
+---
+
+⚡ Fun fact: Me encanta aprender nuevas tecnologías y mejorar mi código día a día.
