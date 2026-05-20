@@ -2,7 +2,7 @@
 <h1 align="center"><b>Hi, I'm Orlando </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 <p align="center">
-  <a><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=C9F6BCE9&width=435&lines=Junior+Developer;Automation+%26+Web+Development;%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%81%A7%E5%B8%B8%E3%81%AB%E6%94%B9%E5%96%84%E3%81%95%E3%82%8C%E3%82%8B%E3%82%B3%E3%83%BC%E3%83%89" alt="Typing SVG" /></a>
+  <a><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=C9F6BCE9&width=435&lines=Fullstack+Developer;Automation+%26+Web+Development;%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%81%A7%E5%B8%B8%E3%81%AB%E6%94%B9%E5%96%84%E3%81%95%E3%82%8C%E3%82%8B%E3%82%B3%E3%83%BC%E3%83%89" alt="Typing SVG" /></a>
 </p>
 <br>
 <a target="_blank" align="center">
