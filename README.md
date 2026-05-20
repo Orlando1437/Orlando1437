@@ -9,13 +9,13 @@
   <img align="right" top="400" height="200" width="300" alt="GIF" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif">
 </a>
 
-- 🔭 I’m currently working with PHP, HTML, and JavaScript on web development projects.
+- 🚀 Backend developer focused on FastAPI, automation workflows and scalable API architecture.
 
-- 🌱 I’m currently learning React, FastAPI, and n8n to build modern web apps and automation workflows.
+- 🐳 Building modern backend applications with Docker, SQLAlchemy, MySQL and REST APIs.
 
-- 🤝 I’m available for freelancing and collaboration on small to medium projects.
+- ⚡ Interested in automation, DevOps and backend systems optimization.
 
-- 🌱 I’m improving my skills in React and FastAPI through hands-on practice and tutorials.
+- 🧠 Currently improving my fullstack workflow with React, FastAPI and modern web technologies.
 <br/>
 
 ## **🚀 Technologies I work with**
@@ -33,17 +33,11 @@
 ### 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### ⚙️ Tools & Productivity
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Git Bash](https://img.shields.io/badge/GitBash-black?style=for-the-badge&logo=git&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-
 ### 🐳 Automation & DevOps
 ![n8n](https://img.shields.io/badge/n8n-000000?style=for-the-badge&logo=n8n&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 <br/>
 
@@ -57,19 +51,16 @@
 
 <br/>
 
-## **🎨 Some of My Projects**
-
-> Coming soon... 👷‍♂️🚧
+## **🎨 Featured Projects**
 
 <!-- Cuando tengas proyectos, solo reemplaza el repo y descomenta lo siguiente -->
 
-<!--
+
 <p align="left">
-  <a href="https://github.com/Orlando1437/mi-primer-proyecto">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Orlando1437&repo=mi-primer-proyecto&bg_color=0d1117&text_color=ffffff&title_color=58a6ff"/>
+  <a href="https://github.com/Orlando1437/task-api-fastapi">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Orlando1437&repo=task-api-fastapi&bg_color=0d1117&text_color=ffffff&title_color=58a6ff"/>
   </a>
 </p>
--->
 
 <br>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
