@@ -58,7 +58,13 @@
 
 <p align="left">
   <a href="https://github.com/Orlando1437/task-api-fastapi">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Orlando1437&repo=task-api-fastapi&bg_color=0d1117&text_color=ffffff&title_color=58a6ff"/>
+    TASK API
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://github.com/Orlando1437/jwt-auth-service.git">
+    JWT AUTHENTICATION
   </a>
 </p>
 
